@@ -6,7 +6,7 @@ namespace Radius
     {
         static void Main(string[] args)
         {
-            var a = 17;
+            var a = 18;
             var b = 4;
 
             var div = a / b;
